@@ -25,7 +25,7 @@ Memory Magic is a simplified clone of Cheat Engine and therefore lacks some adva
    ```
 3. Run Memory Magic:
    ```bash
-   python memory_magic.py
+   python main.py
    ```
 
 ## Acknowledgments
